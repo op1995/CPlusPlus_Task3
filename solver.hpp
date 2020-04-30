@@ -6,7 +6,7 @@
 #include <complex>
 
 using namespace std;
-
+class RealVariable;
 
 double solve(RealVariable x);
 double solve(RealVariable x, RealVariable y);
